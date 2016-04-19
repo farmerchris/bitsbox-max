@@ -1,7 +1,7 @@
-# bitsbox-max
+# BitsBox by Max
 Code that Max and I wrote for https://bitsbox.com.
 
-## Links
+## Playable Links
 
 * [Paul Bunyan](https://bitsbox.com/run.html?nw0ea) - BitsBox project with a few tweaks
 * [Slinky Sculptor](https://bitsbox.com/run.html?kmaov) - BitsBox project
