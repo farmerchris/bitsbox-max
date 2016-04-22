@@ -11,4 +11,9 @@ Code that Max and I wrote for https://bitsbox.com. I created this page because M
 * [Tic-Tac-Toe App](https://bitsbox.com/run.html?ves3d) - simple tic-tac-toe board
 * [Loading App App](https://bitsbox.com/run.html?ie8r7) - Max wanted to create an app with an animated loading icon
 * [Blockcraft](https://bitsbox.com/run.html?i2rzb) - BitsBox project, modified to draw blocks on the grid
+* [Alien Invasion](https://bitsbox.com/run.html?2n1uu) - BitsBox project, extended by Max and me
+* [Chatty Chomper](https://bitsbox.com/run.html?7qofv) - BitsBox project
+* [Funnybones](https://bitsbox.com/run.html?jckyi) - BitsBox project, extended by Max and Sara. Sara's first attempt at writing code.
+* [Giant Squid](https://bitsbox.com/run.html?sjstl) - BitsBox project
+
 
